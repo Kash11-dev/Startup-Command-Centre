@@ -1,0 +1,21 @@
+campaign_id,campaign_name,channel,budget,start_date,end_date
+1,Lead Generation 1,Google Ads,27733,2026-05-30,2026-06-09
+2,Product Launch 2,LinkedIn Ads,155109,2025-10-08,2025-11-27
+3,Retargeting 3,LinkedIn Ads,118793,2025-09-17,2025-12-23
+4,Summer Promotion 4,Email Marketing,144850,2025-08-06,2025-12-16
+5,Lead Generation 5,Email Marketing,67978,2026-05-26,2026-06-09
+6,Retargeting 6,Facebook Ads,19605,2026-04-13,2026-05-02
+7,Retargeting 7,Facebook Ads,179748,2025-08-18,2026-05-20
+8,Retargeting 8,Referral Program,174567,2026-02-01,2026-03-11
+9,Product Launch 9,Google Ads,126757,2026-06-09,2026-06-13
+10,Lead Generation 10,Email Marketing,22939,2026-04-10,2026-06-06
+11,Brand Awareness 11,LinkedIn Ads,138539,2025-06-24,2025-12-29
+12,Retargeting 12,LinkedIn Ads,29363,2026-01-19,2026-05-17
+13,Lead Generation 13,Email Marketing,90603,2026-06-05,2026-06-11
+14,Summer Promotion 14,Referral Program,184864,2025-10-10,2026-05-03
+15,Summer Promotion 15,Referral Program,156421,2026-03-18,2026-04-11
+16,Brand Awareness 16,Referral Program,158417,2026-01-08,2026-05-06
+17,Product Launch 17,Google Ads,107696,2025-06-26,2026-02-01
+18,Summer Promotion 18,Facebook Ads,15744,2026-05-14,2026-06-03
+19,Product Launch 19,LinkedIn Ads,78200,2025-07-17,2026-01-14
+20,Lead Generation 20,LinkedIn Ads,93442,2025-12-24,2026-05-07
